@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UltrasoundCases</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="case_title_hint">Enter a title for the case</string>
+    <string name="case_title_label">Title</string>
+    <string name="case_details_label">Details</string>
+    <string name="case_description_hint">Enter a description for the case</string>
+</resources>
